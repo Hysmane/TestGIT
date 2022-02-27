@@ -1,2 +1,2 @@
 # TestGIT
-This a testGit
+This is a testGit
